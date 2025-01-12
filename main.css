@@ -1,0 +1,12 @@
+body{
+    background: url(linux.png);
+    
+}
+.p{
+    font-family: Impact, Haettenschweiler;
+    color:rgba(244, 255, 0, 0.8);
+    padding: 3rem;
+    font-size: 3rem;
+    padding-left: 30rem;
+    padding-top: 18rem;
+}
