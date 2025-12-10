@@ -7,6 +7,7 @@ button{
 }
 a{
     font-style: none;
+    color: rgba(0, 255, 0, 0.3);
 }
 html{
     background:rgb(10, 10, 10);
