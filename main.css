@@ -6,7 +6,8 @@ button{
     color: black;
 }
 a{
-    font-style: none !important;
+    font:Arial;
+    font-style: none;
     color: rgba(0, 255, 0, 0.3);
 }
 html{
