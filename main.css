@@ -15,8 +15,8 @@ html{
 body{
     background: url(997f83ab-410a-4bf1-995d-89b618cacbb4.jpeg);
     background-size: cover;
-    margin: 20rem;
     border-radius: 1rem;
+    size: cover;
 }
 .p{
     font-family: Impact, Haettenschweiler;
