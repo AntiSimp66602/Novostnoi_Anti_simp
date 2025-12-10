@@ -1,3 +1,12 @@
+button{
+    background: black;
+    padding: 100px;
+}
+a{
+    font-style: none;
+    font: Arial;
+    color: red;
+}
 html{
     background: black;
 }
