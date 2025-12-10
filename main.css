@@ -1,12 +1,12 @@
 button{
     background:rgba(1, 1, 1, 0.3);
-    margin: 1.5rem 1rem;
+    margin: 3rem 2rem;
     border-radius: 7px;
     border-color: red;
     color: black;
 }
 a{
-    font-style:none;
+    font-style: none;
 }
 html{
     background:rgb(10, 10, 10);
