@@ -13,8 +13,7 @@ html{
 }
 body{
     background: url(997f83ab-410a-4bf1-995d-89b618cacbb4.jpeg);
-    background-size: cover;
-    background-position: center;
+    background-size: contain;
 }
 .p{
     font-family: Impact, Haettenschweiler;
