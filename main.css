@@ -1,6 +1,8 @@
 button{
     background: black;
-    margin: 100px;
+    margin: 50px 50px;
+    border-radius: 10px;
+    border-color: red;
 }
 a{
     font-style: none;
