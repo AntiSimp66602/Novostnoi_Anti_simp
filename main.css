@@ -5,6 +5,9 @@ button{
     border-color: red;
     color: black;
 }
+a{
+    font-style:none;
+}
 html{
     background: black;
 }
