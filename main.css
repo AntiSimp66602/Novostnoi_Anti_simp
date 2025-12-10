@@ -1,9 +1,8 @@
 button{
     background:rgba(20, 20, 20, 0.3);
-    margin: 50px 50px;
+    padding: 2rem;
     border-radius: 7px;
     border-color: red;
-    color: black;
 }
 a{
     font:Arial;
