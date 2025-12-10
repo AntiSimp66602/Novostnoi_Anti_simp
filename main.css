@@ -1,13 +1,9 @@
 button{
-    background: black;
-    margin: 50px 50px;
+    background:rgba(255, 255, 255, 0,5);
+    margin: 50px;
     border-radius: 10px;
-    border-color: red;
-}
-a{
-    font-style: none;
-    font: Arial;
-    color: red;
+    border-color: black;
+    color: black;
 }
 html{
     background: black;
